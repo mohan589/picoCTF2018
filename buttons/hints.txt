@@ -1,0 +1,3 @@
+http://2018shell.picoctf.com:21579/
+
+change the GET method to POST, you would get the flag

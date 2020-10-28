@@ -1,0 +1,7 @@
+take first 19 chars of the buffer as it's xoring the 19 chars of buffer with 19 chars of gretting message , i.e "You have now entered the Duck Web"
+
+so in r2 main
+aaa
+afl
+s sym.do_magic
+pcp 0x19 @ obj.sekrutBuffer
